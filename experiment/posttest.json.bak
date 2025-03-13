@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Find the discharge through a rectangular orifice 1.9 m wide and 1.46 m deep fitted to a water tank. The water level in the tank is 3.3 m above the top edge of the orifice. Take cd = 0.67.",
+      "qid": 1,
+      "option_a": "14806.93 lit/sec",
+      "option_b": "16503.85 lit/sec",
+      "option_c": "11530.37 lit/sec",
+      "option_d": "19447.56 lit/sec",
+      "correct_option": "b"
+   },
+   {
+      "question": "Find the discharge through a rectangular orifice 2 m wide and 1.64 m deep fitted to a water tank. The water level in the tank is 4.2 m above the top edge of the orifice. Take cd = 0.66.",
+      "qid": 2,
+      "option_a": "24738.63 lit/sec",
+      "option_b": "20067.8 lit/sec",
+      "option_c": "27085.58 lit/sec",
+      "option_d": "21460.19 lit/sec",
+      "correct_option": "d"
+   }
+]
